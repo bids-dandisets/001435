@@ -23,8 +23,12 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: behavioral technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 662448796
-  numberOfFiles: 4
+  - name: surgical technique
+    schemaKey: MeasurementTechniqueType
+  - name: multi electrode extracellular electrophysiology recording technique
+    schemaKey: MeasurementTechniqueType
+  numberOfBytes: 13080585001
+  numberOfFiles: 11
   numberOfSubjects: 1
   schemaKey: AssetsSummary
   species:
@@ -35,6 +39,8 @@ assetsSummary:
   - ProcessingModule
   - SpatialSeries
   - Units
+  - ElectricalSeries
+  - ElectrodeGroup
 citation: Chen, Ruidong (2025) Evidence accumulation from experience and observation
   in the cingulate cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001435/draft
 contributor:
