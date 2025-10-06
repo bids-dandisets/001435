@@ -3,6 +3,7 @@
 # and obtained from the dandiarchive.
 '@context': 
   https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.9/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -27,8 +28,8 @@ assetsSummary:
     schemaKey: MeasurementTechniqueType
   - name: multi electrode extracellular electrophysiology recording technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 821667412537
-  numberOfFiles: 99
+  numberOfBytes: 863672254859
+  numberOfFiles: 101
   numberOfSubjects: 2
   schemaKey: AssetsSummary
   species:
@@ -66,6 +67,7 @@ description: We use our experiences to form and update beliefs about the hidden 
   experiential and observational evidence accumulation. This work lays the groundwork
   for understanding the neural mechanisms underlying evidence accumulation in social
   contexts within the primate brain.
+ethicsApproval: []
 id: DANDI:001435/draft
 identifier: DANDI:001435
 license:
@@ -73,8 +75,10 @@ license:
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/001435/versions/draft/assets/
 name: Evidence accumulation from experience and observation in the cingulate cortex
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.9
 url: https://dandiarchive.org/dandiset/001435/draft
 version: draft
+wasGeneratedBy: []
